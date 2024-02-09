@@ -5,7 +5,7 @@
 
 <h1 align="center">NinePathTackShooter</h1>
 
-This mod add the NinePathTackShooter require path plus plus! have fun
+Uh take all paragon and put them into one Yes
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/ParagonMerged/total?label=Total%20Dowloads"></h1>
 
